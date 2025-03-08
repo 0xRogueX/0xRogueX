@@ -17,6 +17,8 @@ I'm a passionate **Java Developer** with a strong foundation in **Data Structure
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Libraries:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
