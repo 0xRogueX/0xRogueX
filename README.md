@@ -43,7 +43,7 @@ Data Structures & Algorithms, System Design
 
 - **Email**: 0xroguex@example.com
 - **Twitter**: [@0xRogueX](https://twitter.com/0xRogueX)
-- **LinkedIn**: [0xRogueX](https://www.linkedin.com/in/0xRogueX)
+- **LinkedIn**: [0xRogueX](https://www.linkedin.com/in/vivekdadhaniya/)
 
 ## 🤝 Let's Collaborate
 
