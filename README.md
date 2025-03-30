@@ -43,7 +43,7 @@ Data Structures & Algorithms, System Design
 
 ## 📫 How to Reach Me
 
-- **Email**: 0xroguex@example. **LinkedIn**: [Vivek Dadhaniya](https://www.linkedin.com/in/vivekdadhaniya/)
+- **LinkedIn**: [Vivek Dadhaniya](https://www.linkedin.com/in/vivekdadhaniya/)
 - **Discord**: [Vivek Dadhaniya](https://discord.com/users/1073565428233801738)
 
 ## 🤝 Let's Collaborate
